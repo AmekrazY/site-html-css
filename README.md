@@ -1,2 +1,2 @@
 ---
-site en html et css
+Site en HTML/CSS et JS (responsive )
